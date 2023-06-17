@@ -1,1 +1,1 @@
-# wjdgus3608.github.io
+# 배포용
